@@ -7,6 +7,7 @@ public class GaloECanario implements IPodeCantar {
     public void cantar() {
             JOptionPane.showMessageDialog(null, " O Galo fai cro cro cro e o Canario Pio Pio ");
 
+        return null;
     }
 
 //como cantan

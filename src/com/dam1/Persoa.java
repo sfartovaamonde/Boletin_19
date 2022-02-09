@@ -5,7 +5,8 @@ import javax.swing.*;
 public class Persoa implements IPodeCantar{
     @Override
     public void cantar() {
-        JOptionPane.showMessageDialog(null, " LAA LAA LAAA");
+        JOptionPane.showMessageDialog(null, " Laa Laaa Dooo");
+
 
     }
 
